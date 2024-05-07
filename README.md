@@ -20,5 +20,5 @@ The dashboard has the following components
 4. Services component consists of the weather.service.ts file which consists of all the business logics to transfer the data from Client API to Dashboard UI
 5. Environment Variables consists of the API key name and the API key value which needs to be taken from the weatherAPI.com and pasted there.
 
-6. ![Uploading EnvironmentVariables.jpg…]()
+
 
