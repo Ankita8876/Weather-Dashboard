@@ -15,7 +15,10 @@ Instructions :
 The dashboard has the following components
 
 1. The left-container component consists of all the HTML codes and the typescript logic for the left-side of the dashboard
-2. The right-container component consists of all the HTML codes and the typescript logic for the right-hand side background color yellow of the dashboard.
+2. The right-container component consists of all the HTML codes and the typescript logic for the right-hand side (background color light yellow) of the dashboard.
 3. Models component consists of all the data models and their types to extract those data from the weather API JSON payload.
-4. Services component consists of the webService.ts file which consists of all the business logics to transfer the data from Client API to Dashboard UI
+4. Services component consists of the weather.service.ts file which consists of all the business logics to transfer the data from Client API to Dashboard UI
 5. Environment Variables consists of the API key name and the API key value which needs to be taken from the weatherAPI.com and pasted there.
+
+6. ![Uploading EnvironmentVariables.jpg…]()
+
