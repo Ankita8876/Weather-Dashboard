@@ -23,5 +23,7 @@ The API Key value is present inside the EnvironmentVariables.ts file inside Envi
 
 Use ng serve --open to execute the project.
 
-
+**Note:
+How to extract the file :
+Download and move both weatherapp.7z.001 and weatherapp.7z.002 files in a same specific location and extract the folder of  weatherapp.7z.001 file only. Then, directly open  the weatherapp folder inside VS code application and add your API key in EnvironmentVariables.ts file. Execute and the dashboard would be running successfully.
 
