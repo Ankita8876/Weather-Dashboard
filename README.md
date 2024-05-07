@@ -1,5 +1,5 @@
 # Weather-Dashboard
-A powerful responsive weather dashboard is being designed and developed using Angular JAVA, HTML, CSS , bootstrap and WeatherAPIs to call the weather calls in the UI
+A powerful responsive weather dashboard is being designed and developed using Angular JAVA(Version : 17.3.7), HTML, CSS , bootstrap and WeatherAPIs to call the weather calls in the UI
 
 The dashboard enables the user to locate any location's weather in the search placeholder.
 The dashboard shows the current weather for the searched location, including current temperature, hourly temperature for the current day and also weekly forecast for upcoming days' weather.
