@@ -11,7 +11,7 @@ The APIs used in this project are:
 1.http://api.weatherapi.com/v1/search.json
 2.http://api.weatherapi.com/v1/forecast.json
 
-Instructions :
+Architecture and the angular materials used in this dashboard :
 The dashboard has the following components
 
 1. The left-container component consists of all the HTML codes and the typescript logic for the left-side of the dashboard
@@ -19,7 +19,10 @@ The dashboard has the following components
 3. Models component consists of all the data models and their types to extract those data from the weather API JSON payload.
 4. Services component consists of the weather.service.ts file which consists of all the business logics to transfer the data from Client API to Dashboard UI
 5. Environment Variables consists of the API key name and the API key value which needs to be taken from the weatherAPI.com and pasted there.
-The API Key value is present inside the EnvironmentVariables.ts file inside Environment folder where you need to use your API key value and run the project.
+***The API Key value is present inside the EnvironmentVariables.ts file inside Environment folder where you need to use your API key value and run the project.
+6. Flaticons for icons , CSS , images are used in the dashboard.
+7. HttpClientModule is imported and used for calling APIs from WeatherAPI.com
+8. Fonts are used from FontAwesome and google font as well.
 
 Use ng serve --open to execute the project.
 
